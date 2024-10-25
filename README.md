@@ -47,13 +47,7 @@ SECRET_KEY=your-secret-key
 python manage.py migrate
 ```
 
-### 5. Create Superuser
-
-```bash
-python manage.py createsuperuser
-```
-
-### 6. Run the Development Server
+### 5. Run the Development Server
 
 ```bash
 python manage.py runserver
