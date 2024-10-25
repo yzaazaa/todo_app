@@ -8,10 +8,6 @@ A simple web application for managing tasks and to-do lists. Users can add, edit
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -27,8 +23,8 @@ A simple web application for managing tasks and to-do lists. Users can add, edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/yzaazaa/todo_app.git
+cd todo_app
 python3 -m venv venv
 source venv/bin/activate # On Windows use `venv\Scripts\activate`
 ```
