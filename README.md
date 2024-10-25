@@ -1,6 +1,6 @@
 # Todo App
 
-A simple web application for managing tasks and to-do lists. Users can add, edit, and delete tasks, helping them stay organized and productive.
+A simple web application for managing tasks and to-do lists. Users can add and delete tasks.
 
 ---
 
